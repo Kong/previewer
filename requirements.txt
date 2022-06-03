@@ -48,7 +48,7 @@ smmap2==2.0.3
 texttable==0.9.1
 uritemplate==3.0.0
 uritemplate.py==3.0.2
-urllib3==1.22
+urllib3==1.26.5
 websocket-client==0.44.0
 Werkzeug==0.12.2
 wrapt==1.10.11
