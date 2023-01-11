@@ -173,7 +173,7 @@ def branch(data):
     environment['NPM_TOKEN'] =os.environ['NPM_TOKEN']
     run_docker_compose(network_prefix, environment, working_directory)
 
-    print "done branch should be up"
+    print "done! branch should be up"
 
     return True
 
